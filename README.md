@@ -1,4 +1,1 @@
-learning_css
-============
-
-to study css
+This project is created to study css, html and js.
